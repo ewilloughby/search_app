@@ -1,3 +1,7 @@
 en:
   blacklight:
     application_name: 'Blacklight'
+    search:
+      form:
+        search:
+          placeholder: 'Find datasets used in research at MSK'
